@@ -1,0 +1,68 @@
+body{
+    
+    font-family: Calibri;
+    padding: 10px 20px;
+    background-image: url("imagenes/cookiesfondo.jpg");
+    background-size: cover;
+}
+
+h1 {
+	color: #FFFFFF;
+	background-color: #ffbd33;
+	padding: 10px;
+	border-radius:0 20px;
+}
+
+h2{
+
+    font-family: LobsterTwo,Trebuchet;
+	color: #6b0c25;
+	font-size: 35px;
+	text-align: center;
+	color: black;
+	text-shadow: 1px 1px 0px rgba(240,240,240,1), 
+    2px 2px 0px rgba(200,200,200,1), 
+    3px 3px 0px rgba(180,180,180,1), 
+    4px 4px 0px rgba(170,170,170,1),
+    5px 10px 7px rgba(0,0,0,0.5),
+    5px 5px 0px rgba(0,0,0,1), 
+    8px 8px 20px rgba(0,0,0,0.2);
+    margin-top: 45px;
+    margin-left: 120px;
+}
+
+.imagen{
+    width:550px;
+	height: 350px;
+	background-color:white;
+	margin-right: 200px;
+	margin-left: 300px;
+	margin-top:30px;
+	margin-bottom: 10px;
+	background-image: url(imagenes/tablanavidad.jpg);
+	background-size: cover;
+	background-repeat: repeat;
+	background-position: center;
+	border-color: white;
+	border-style: ridge;
+    text-align: center;
+	font-size: 20px;
+	font-family: Calibri,sans serif;
+	box-sizing: border-box;
+
+}
+
+#formu ol{
+
+    text-decoration: none;
+	list-style: none;
+	text-align: center;
+	width: 200px;
+	height: 600px;
+	padding-right: 5px;
+	padding-left: 250px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	font-size: 25px;
+
+}
